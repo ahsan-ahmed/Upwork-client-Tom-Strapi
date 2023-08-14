@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_page_hero_sections",
+  "info": {
+    "singularName": "home-page-hero-section",
+    "pluralName": "home-page-hero-sections",
+    "displayName": "Home Page Hero Section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Stats": {
+      "type": "json"
+    }
+  }
+}

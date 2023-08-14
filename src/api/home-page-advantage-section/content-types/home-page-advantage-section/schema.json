@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_page_advantage_sections",
+  "info": {
+    "singularName": "home-page-advantage-section",
+    "pluralName": "home-page-advantage-sections",
+    "displayName": "Home Page Advantage Section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "data": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_page_problem_sections",
+  "info": {
+    "singularName": "home-page-problem-section",
+    "pluralName": "home-page-problem-sections",
+    "displayName": "Home Page Problem Section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "keyword": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_page_step_sections",
+  "info": {
+    "singularName": "home-page-step-section",
+    "pluralName": "home-page-step-sections",
+    "displayName": "HomePageStepSection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Number": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Steps": {
+      "type": "json"
+    }
+  }
+}
