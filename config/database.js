@@ -96,8 +96,8 @@ module.exports = ({ env }) => {
 
   return {
     connection: {
-      client: "postgres",
-      ...connections["postgres"],
+      client: "sqlite",
+      ...connections["sqlite"],
       acquireConnectionTimeout: env.int("DATABASE_CONNECTION_TIMEOUT", 60000),
     },
   };

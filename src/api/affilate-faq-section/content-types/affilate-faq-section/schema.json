@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "affilate_faq_sections",
+  "info": {
+    "singularName": "affilate-faq-section",
+    "pluralName": "affilate-faq-sections",
+    "displayName": "Affilate faq section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "keyword": {
+      "type": "string"
+    },
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

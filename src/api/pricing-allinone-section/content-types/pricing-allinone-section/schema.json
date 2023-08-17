@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "pricing_allinone_sections",
+  "info": {
+    "singularName": "pricing-allinone-section",
+    "pluralName": "pricing-allinone-sections",
+    "displayName": "pricing allinone section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "keyword": {
+      "type": "string"
+    },
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "data": {
+      "type": "json"
+    }
+  }
+}

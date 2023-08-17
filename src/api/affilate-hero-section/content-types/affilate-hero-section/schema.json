@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "affilate_hero_sections",
+  "info": {
+    "singularName": "affilate-hero-section",
+    "pluralName": "affilate-hero-sections",
+    "displayName": "Affilate Hero section",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "buttonText": {
+      "type": "string"
+    },
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

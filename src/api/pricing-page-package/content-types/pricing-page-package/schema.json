@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pricing_page_packages",
+  "info": {
+    "singularName": "pricing-page-package",
+    "pluralName": "pricing-page-packages",
+    "displayName": "Pricing page package"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "work": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "scheme_price": {
+      "type": "string"
+    },
+    "scheme_desc": {
+      "type": "string"
+    },
+    "data": {
+      "type": "json"
+    }
+  }
+}

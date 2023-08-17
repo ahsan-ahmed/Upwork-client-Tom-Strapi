@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "case_study_pages",
+  "info": {
+    "singularName": "case-study-page",
+    "pluralName": "case-study-pages",
+    "displayName": "Case Study Hero Section",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "keyword": {
+      "type": "string"
+    },
+    "Heading": {
+      "type": "string"
+    },
+    "Paragraph": {
+      "type": "text"
+    }
+  }
+}

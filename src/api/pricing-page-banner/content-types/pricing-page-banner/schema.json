@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "pricing_page_banners",
+  "info": {
+    "singularName": "pricing-page-banner",
+    "pluralName": "pricing-page-banners",
+    "displayName": "Pricing page banner"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  }
+}
