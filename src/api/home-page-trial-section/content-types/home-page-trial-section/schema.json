@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_page_trial_sections",
+  "info": {
+    "singularName": "home-page-trial-section",
+    "pluralName": "home-page-trial-sections",
+    "displayName": "Home page trial section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "text"
+    },
+    "data": {
+      "type": "json"
+    },
+    "Botton_button_line": {
+      "type": "string"
+    }
+  }
+}
