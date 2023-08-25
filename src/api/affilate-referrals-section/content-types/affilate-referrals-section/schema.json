@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "affilate_referrals_sections",
+  "info": {
+    "singularName": "affilate-referrals-section",
+    "pluralName": "affilate-referrals-sections",
+    "displayName": "affilate referrals section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "base_value": {
+      "type": "string"
+    },
+    "keyword": {
+      "type": "string"
+    },
+    "heading": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "string"
+    },
+    "bottom_para": {
+      "type": "string"
+    }
+  }
+}

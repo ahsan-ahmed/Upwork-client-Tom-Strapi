@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "pricing_page_slider_sections",
+  "info": {
+    "singularName": "pricing-page-slider-section",
+    "pluralName": "pricing-page-slider-sections",
+    "displayName": "pricing page slider section"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "base_value": {
+      "type": "string"
+    },
+    "stats": {
+      "type": "json"
+    },
+    "heading": {
+      "type": "string"
+    }
+  }
+}

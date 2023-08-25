@@ -4,7 +4,8 @@
   "info": {
     "singularName": "home-page-hero-section",
     "pluralName": "home-page-hero-sections",
-    "displayName": "Home Page Hero Section"
+    "displayName": "Home Page Hero Section",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -19,6 +20,9 @@
     },
     "Stats": {
       "type": "json"
+    },
+    "Botton_button_text": {
+      "type": "string"
     }
   }
 }

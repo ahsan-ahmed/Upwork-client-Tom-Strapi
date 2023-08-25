@@ -4,7 +4,8 @@
   "info": {
     "singularName": "home-page-video",
     "pluralName": "home-page-videos",
-    "displayName": "home page video"
+    "displayName": "home page video",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,6 +13,20 @@
   "pluginOptions": {},
   "attributes": {
     "video": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading": {
+      "type": "string"
+    },
+    "logos": {
       "allowedTypes": [
         "images",
         "files",
@@ -19,7 +34,7 @@
         "audios"
       ],
       "type": "media",
-      "multiple": false
+      "multiple": true
     }
   }
 }
