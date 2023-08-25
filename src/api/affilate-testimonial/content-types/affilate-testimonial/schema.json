@@ -4,7 +4,8 @@
   "info": {
     "singularName": "affilate-testimonial",
     "pluralName": "affilate-testimonials",
-    "displayName": "Affilate-Testimonial"
+    "displayName": "Affilate-Testimonial",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -21,14 +22,18 @@
       "type": "string"
     },
     "picture": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
+    },
+    "stars": {
+      "type": "integer"
     }
   }
 }

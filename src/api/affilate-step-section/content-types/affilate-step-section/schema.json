@@ -34,9 +34,6 @@
     },
     "Steps": {
       "type": "json"
-    },
-    "stars": {
-      "type": "integer"
     }
   }
 }
