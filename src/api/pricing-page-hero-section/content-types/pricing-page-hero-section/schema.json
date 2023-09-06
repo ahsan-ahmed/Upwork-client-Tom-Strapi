@@ -4,7 +4,8 @@
   "info": {
     "singularName": "pricing-page-hero-section",
     "pluralName": "pricing-page-hero-sections",
-    "displayName": "PricingPage  Hero Section"
+    "displayName": "PricingPage  Hero Section",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -19,6 +20,11 @@
     },
     "buttonText": {
       "type": "string"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
     }
   }
 }
