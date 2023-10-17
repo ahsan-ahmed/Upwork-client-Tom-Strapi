@@ -2296,7 +2296,7 @@
 
 "@strapi/plugin-seo@^1.9.5":
   version "1.9.5"
-  resolved "https://registry.npmjs.org/@strapi/plugin-seo/-/plugin-seo-1.9.5.tgz"
+  resolved "https://registry.yarnpkg.com/@strapi/plugin-seo/-/plugin-seo-1.9.5.tgz#04cc5bd2c6671e12ad2c26e3ec15b4e1aa98228c"
   integrity sha512-QheYXo9q/kCkKWFruDTeUtiYve8bh5OvJiNBZE7EnYkri5FE47/llZajot6oAYd6oLutyDMlE1xOu5WbnWHZZw==
   dependencies:
     date-fns "^2.29.3"
